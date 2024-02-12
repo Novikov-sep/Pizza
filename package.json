@@ -2,7 +2,7 @@
   "name": "asd",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:/Novikov-sep.github.io/pizza",
+  "homepage": "https://novikov-sep.github.io/pizza/",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@reduxjs/toolkit": "^1.9.5",
