@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkasd=self.webpackChunkasd||[]).push([[187],{9651:function(n,u,e){e.r(u),e.d(u,{default:function(){return c}});e(2791);var r="NotFoundBlock_root__6PvRP",s=e(184),t=function(){return(0,s.jsx)("div",{children:(0,s.jsx)("h1",{className:r,children:"\u041d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e :|"})})},c=function(){return(0,s.jsx)(t,{})}}}]);
+//# sourceMappingURL=NotFound.3946b320.chunk.js.map
